@@ -14,6 +14,8 @@
           <izz>0.0001</izz>
         </inertia>
       </inertial>
+      <!-- 运动：初速度设置 -->
+      <velocity>0.3 0 0</velocity> <!-- x方向0.3m/s -->
       <collision name="orange_ball_collision">
         <geometry>
           <sphere>
