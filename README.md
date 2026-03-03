@@ -1,1 +1,1 @@
-This is a repo for 智能系统专业实验 lesson, Department of Artificial Intelligence, xidian university.
+This is a repo for 专业综合实践 lesson, Department of Artificial Intelligence, xidian university.
